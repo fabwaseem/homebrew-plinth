@@ -12,7 +12,7 @@ cask "plinth" do
 
   name "Plinth"
   desc "YouTube downloader"
-  homepage "https://github.com/fabwaseem/plinth"
+  homepage "https://plinth.fabwaseem.com"
 
   # Electron 44 requires macOS 13; refuse the install on older
   # systems instead of shipping an app that cannot launch. A bare
